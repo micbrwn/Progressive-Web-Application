@@ -82,7 +82,9 @@ No tests are needed for this application
 
 ## Screenshots
 
-![Screenshot]()
+![Screenshot](./assets/images/Screen%20Shot%202022-07-18%20at%203.54.07%20PM.png)
+
+![Screenshot](./assets/images/Screen%20Shot%202022-07-18%20at%203.51.31%20PM.png)
 
 
 ## Heroku URL
