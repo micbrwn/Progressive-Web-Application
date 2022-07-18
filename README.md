@@ -13,7 +13,7 @@ The task is to build a text editor that runs in the browser. The app will be a s
   * [Technologies Used](#technologies-used)
   * [Tests](#tests)
   * [Screenshots](#screenshots)
-  * [Screencastify URL](#screencastify-url)
+  * [Heroku Deployed URL](#heroku-url)
 
 
 
@@ -72,7 +72,7 @@ THEN I should have proper build scripts for a webpack application
 ```md
 - Javascript
 - Express
-- Mongoose
+- Web-packs
 ```
 
 ## Tests
@@ -85,8 +85,8 @@ No tests are needed for this application
 ![Screenshot]()
 
 
-## Screencastify URL
+## Heroku URL
 
-[Insomnia Demo]()
+[Deployed App](https://pwa-jate-0722.herokuapp.com/)
 
  
